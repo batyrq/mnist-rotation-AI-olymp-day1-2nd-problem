@@ -1,0 +1,1 @@
+# mnist-rotation-AI-olymp-day1-2nd-problem
